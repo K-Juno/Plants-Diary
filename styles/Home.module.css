@@ -3,6 +3,35 @@
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  padding: 6rem;
   min-height: 100vh;
+  margin: auto;
+  background-color: #151515;
+  color: #DA214F;
+}
+
+.plantList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+}
+
+.listItem {
+  width: 280px;
+}
+
+.titles {
+  width: auto;
+  height: 3rem;
+  word-break: break-word;
+  text-align: center;
+}
+
+.imageContainer {
+  height: 280px;
+}
+
+.images {
+  object-fit: cover;
 }

@@ -16,10 +16,11 @@ html,
 body {
   max-width: 100vw;
   overflow-x: hidden;
+  font-family: 'Red Hat Mono', monospace;
 }
 
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
   }
-}
+} */

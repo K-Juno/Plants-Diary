@@ -1,0 +1,55 @@
+{
+  "plants":
+[
+  {
+    "id": "1",
+    "species": "Rhaphidophora Tetrasperma",
+    "family": "Araceae",
+    "genus": "Rhaphidophora",
+    "date": "2021/07/23",
+    "size": "70cm",
+    "condition": "great",
+    "image": "https://images.unsplash.com/photo-1668934873888-9d29a84d3227?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1931&q=80"
+  },
+    {
+    "id": "2",
+    "species": "Scindapsus Pictus Argyraeus",
+    "family": "Araceae",
+    "genus": "Scindapsus",
+    "date": "2022/04/18",
+    "size": "25cm",
+    "condition": "great",
+    "image": "https://images.unsplash.com/photo-1589523795613-c3fce27eea23?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2787&q=80"
+  },
+    {
+    "id": "3",
+    "species": "Homalomena Rubescens",
+    "family": "Araceae",
+    "genus": "Homalomena",
+    "date": "2022/10/01",
+    "size": "55cm",
+    "condition": "great",
+    "image": "https://images.unsplash.com/photo-1660648298747-7964641fb00f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+  },
+  {
+    "id": "4",
+    "species": "Alocasia Baginda Pink Dragon",
+    "family": "Araceae",
+    "genus": "Alocasia",
+    "date": "2022/05/06",
+    "size": "20cm",
+    "condition": "great",
+    "image": "https://images.unsplash.com/photo-1597772014117-b5af2ee85868?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+  },
+    {
+    "id": "5",
+    "species": "Philodendron Hederaceum (Scandens Micans)",
+    "family": "Araceae",
+    "genus": "Philodendron",
+    "date": "2022/05/31",
+    "size": "45cm",
+    "condition": "mediocre",
+    "image": "https://images.unsplash.com/photo-1652367038415-700e49bfd6e3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+  }
+]
+}
